@@ -1,9 +1,9 @@
 safe: true
 source: .
-destination: ./_site
+markdown: redcarpet
 lsi: false
-pygments: true
-
-auto: true
-title: 税金はどこへ行った？
+highlighter: false
+encoding: "utf-8"
+exclude: ["Gemfile", "Gemfile.lock", "*.csv", "vendor/*"]
+title: 税金はどこへ行った？ for Oita
 
