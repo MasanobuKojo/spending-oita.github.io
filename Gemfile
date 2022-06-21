@@ -1,11 +1,10 @@
 source 'https://rubygems.org'
 
 gem 'jekyll'
-gem 'iconv'
-#gem 'liquid',     '=2.4.1'
-#gem 'redcarpet',  '=2.1.1'
-#gem 'maruku',     '=0.6.0'
-#gem 'rdiscount',  '=1.6.8'
-#gem 'RedCloth',   '=4.2.9'
-#gem "rake"
+gem 'liquid'
+gem 'redcarpet'
+gem 'maruku'
+gem 'rdiscount'
+gem 'RedCloth'
+gem "rake"
 
